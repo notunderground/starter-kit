@@ -24,6 +24,7 @@ move on once you've finished a ruby track
 ### Git 
 * http://gitimmersion.com/lab_01.html
 * https://www.learnenough.com/git-tutorial
+
 ### Command Line
 * https://www.learnenough.com/command-line-tutorial
 
