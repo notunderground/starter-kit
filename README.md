@@ -12,8 +12,8 @@ go ahead and move on
 * https://www.udacity.com/course/intro-to-html-and-css--ud30
 
 ## Ruby
-* [https://www.codecademy.com/learn/ruby]
-* [https://learnrubythehardway.org/book/]
+* https://www.codecademy.com/learn/ruby
+* https://learnrubythehardway.org/book/
 
 ## Rails
 
