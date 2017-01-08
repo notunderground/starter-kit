@@ -20,7 +20,7 @@ move on once you've finished a ruby track
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 
-## Git
+## tools Git`/ command line / editor
 
 
 ## Rails
@@ -33,4 +33,4 @@ before you move on learn git
 ### Todo
 
 * have a quiz or example projects, to determine when its time to move on
-* write a section for rails 
+* add resources for tools
