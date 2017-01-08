@@ -4,10 +4,11 @@ all I demand of you is 30 minutes a day, every day.
 
 Use any resource you need if these dont work for you
 
-## HTML / CSS
+## HTML / CSS / INTRO TO INTERNET
 Dont stay here to long, when you feel you understand how it works
 go ahead and move on 
 
+* https://www.khanacademy.org/computing/computer-science/internet-intro
 * https://www.udacity.com/course/intro-to-html-and-css--ud304
 
 ## Ruby
