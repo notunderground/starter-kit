@@ -20,8 +20,9 @@ move on once you've finished a ruby track
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 
-## tools Git`/ command line / editor
-
+## Tools 
+git 
+* http://gitimmersion.com/lab_01.html
 
 ## Rails
 This were we're going to settle down, and use the tools we've already learned,
