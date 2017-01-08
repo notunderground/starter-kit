@@ -4,14 +4,15 @@ all I demand of you is 30 minutes a day, every day.
 
 Use any resource you need if these dont work for you
 
-
 ## HTML / CSS
-dont stay here to long, when you feel you understand how it works
+Dont stay here to long, when you feel you understand how it works
 go ahead and move on 
 
-* https://www.udacity.com/course/intro-to-html-and-css--ud30
+* https://www.udacity.com/course/intro-to-html-and-css--ud304
 
 ## Ruby
+move on once you've finished a ruby track
+
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 
