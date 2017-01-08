@@ -22,7 +22,6 @@ move on once you've finished a ruby track
 
 ## Tools 
 ### Git 
-* http://gitimmersion.com/lab_01.html
 * https://www.learnenough.com/git-tutorial
 
 ### Command Line
