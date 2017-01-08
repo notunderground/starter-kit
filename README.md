@@ -21,8 +21,11 @@ move on once you've finished a ruby track
 * https://learnrubythehardway.org/book/
 
 ## Tools 
-git 
+### Git 
 * http://gitimmersion.com/lab_01.html
+* https://www.learnenough.com/git-tutorial
+### Command Line
+* https://www.learnenough.com/command-line-tutorial
 
 ## Rails
 This were we're going to settle down, and use the tools we've already learned,
