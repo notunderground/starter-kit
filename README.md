@@ -2,18 +2,18 @@
 
 Follow this guideline and you'll be building things,
 all I demand of you is 30 minutes a day, every day.
-Use any resource you need if these dont work for you
 
-!! NOTICE !! much more will be added and changed here
 
 ## HTML / CSS / INTRO TO INTERNET
 Dont stay here to long, when you feel you understand how it works
 go ahead and move on 
 
-* https://www.udacity.com/course/intro-to-html-and-css--ud304
-* https://www.khanacademy.org/computing/computer-science/internet-intro
-* https://www.learnenough.com/html-tutorial
 
+* html/css/bootstrap https://www.udacity.com/course/intro-to-html-and-css--ud304
+* how the internet work shttps://www.khanacademy.org/computing/computer-science/internet-intro
+
+assumes knowledge of git
+* https://www.learnenough.com/html-tutorial
 
 ## Ruby
 move on once you've finished a ruby track
@@ -21,9 +21,17 @@ move on once you've finished a ruby track
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 
-## Tools 
+
+## Tools
+learn these before moving on, these are the tools we're going to use every day
+
+### Editor
+download, and install
+https://atom.io/
+
 ### Git 
 * https://www.learnenough.com/git-tutorial
+* http://gitimmersion.com/
 
 ### Command Line
 * https://www.learnenough.com/command-line-tutorial
@@ -33,6 +41,10 @@ This were we're going to settle down, and use the tools we've already learned,
 before you move on learn git
 
 * https://www.railstutorial.org/book
+
+### Learn enough / rails book / michael hartl 
+his stuff is just really good, and you should do them all, and thanks for putting them out for free
+https://www.learnenough.com/web-development-fundamentals
 
 
 ### Todo
