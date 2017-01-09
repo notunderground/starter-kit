@@ -8,11 +8,10 @@ Use any resource you need if these dont work for you
 Dont stay here to long, when you feel you understand how it works
 go ahead and move on 
 
+* https://www.udacity.com/course/intro-to-html-and-css--ud304
 * https://www.khanacademy.org/computing/computer-science/internet-intro
 * https://www.learnenough.com/html-tutorial
 
-if you want more depth
-* https://www.udacity.com/course/intro-to-html-and-css--ud304
 
 ## Ruby
 move on once you've finished a ruby track
