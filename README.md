@@ -5,20 +5,17 @@ Follow this guideline and you'll be building things,all I demand of you is 30 mi
 Dont stay here to long, when you feel you understand how it works
 go ahead and move on 
 
-
 * html/css/bootstrap https://www.udacity.com/course/intro-to-html-and-css--ud304
 * how the internet work shttps://www.khanacademy.org/computing/computer-science/internet-intro
 
 assumes knowledge of git
 * https://www.learnenough.com/html-tutorial
-***
 
 ## Ruby
 Move on once you've finished a ruby track.
 
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
-===
 
 ## Tools
 These are the tools we're going to use every day.
@@ -34,7 +31,6 @@ Download and install a text editor. I recommend:
 
 ### Command Line
 * https://www.learnenough.com/command-line-tutorial
-___
 
 # Rails
 This is where all the skills we've built come together. Do this book slow, twice. 
