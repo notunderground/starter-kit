@@ -1,10 +1,9 @@
 # starter-kit 
-!! NOTICE !! much more will be added and changed here
-
 
 Follow this guideline and you'll be building things,
 all I demand of you is 30 minutes a day, every day.
 
+!! NOTICE !! much more will be added and changed here
 Use any resource you need if these dont work for you
 
 ## HTML / CSS / INTRO TO INTERNET
