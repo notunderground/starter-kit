@@ -23,7 +23,8 @@ move on once you've finished a ruby track
 
 
 ## Tools
-learn these before moving on, these are the tools we're going to use every day
+These are the tools we're going to use every day.
+So get familar before moving on to rails.
 
 ### Editor
 download, and install
