@@ -2,9 +2,9 @@
 
 Follow this guideline and you'll be building things,
 all I demand of you is 30 minutes a day, every day.
+Use any resource you need if these dont work for you
 
 !! NOTICE !! much more will be added and changed here
-Use any resource you need if these dont work for you
 
 ## HTML / CSS / INTRO TO INTERNET
 Dont stay here to long, when you feel you understand how it works
