@@ -26,6 +26,7 @@ Download and install a text editor. I recommend:
 * https://atom.io/
 
 ### Git 
+* https://githowto.com/
 * https://www.learnenough.com/git-tutorial
 * http://gitimmersion.com/
 
