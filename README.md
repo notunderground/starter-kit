@@ -17,6 +17,9 @@ Move on once you've finished a ruby track.
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 
+ruby / rails tutorials 
+* http://readysteadycode.com/guides
+
 ## Tools
 These are the tools we're going to use every day.
 So get familar before moving on to rails.
