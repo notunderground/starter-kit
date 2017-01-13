@@ -16,6 +16,7 @@ Move on once you've finished a ruby track.
 
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
+* http://ruby.bastardsbook.com/
 
 ruby / rails tutorials 
 * http://readysteadycode.com/guides
