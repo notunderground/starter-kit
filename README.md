@@ -23,6 +23,7 @@ ruby / rails tutorials
 * http://readysteadycode.com/guides
 
 #### Resources
+write ruby in your browser
 * https://repl.it/
 
 ## Tools
