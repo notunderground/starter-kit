@@ -14,12 +14,16 @@ assumes knowledge of git
 ## Ruby
 Move on once you've finished a ruby track.
 
+#### Guides
 * https://www.codecademy.com/learn/ruby
 * https://learnrubythehardway.org/book/
 * http://ruby.bastardsbook.com/
 
 ruby / rails tutorials 
 * http://readysteadycode.com/guides
+
+#### Resources
+* https://repl.it/
 
 ## Tools
 These are the tools we're going to use every day.
