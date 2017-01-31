@@ -48,7 +48,7 @@ Download and install a text editor. I recommend:
 This is where all the skills we've built come together. Do this book slow, twice. 
 * https://www.railstutorial.org/book
 
-#### Mackenzie Child YouTube videos
+#### Mackenzie Child YouTube playlists
 Getting started with rails.
 * https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA
 
@@ -64,4 +64,4 @@ https://www.learnenough.com/web-development-fundamentals
 
 * have a quiz or example projects, to determine when its time to move on
 * add resources for tools
-
+* add setting up machine for development resources
