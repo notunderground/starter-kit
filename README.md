@@ -55,7 +55,7 @@ Getting started with rails.
 12 Rails apps in 12 weeks
 * https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
 
-### Learn enough / rails book / michael hartl 
+### Learn enough series by  Michael Hartl 
 His stuff is just really good, and you should do them all.
 
 https://www.learnenough.com/web-development-fundamentals
