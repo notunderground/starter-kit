@@ -60,7 +60,7 @@ His stuff is just really good, and you should do them all.
 
 https://www.learnenough.com/web-development-fundamentals
 
-### Todo
+### TODO ( list of things for me to add to repository ) 
 
 * have a quiz or example projects, to determine when its time to move on
 * add resources for tools
