@@ -1,12 +1,14 @@
 # starter-kit 
-Follow this guideline and you'll be building things,all I demand of you is 30 minutes a day, every day.
+Follow this guideline and you'll be building things, all I demand of you is 30 minutes a day, every day.
+
+I provide many resouces so you can have options, use whatever works for you.
 
 ## HTML / CSS / INTRO TO INTERNET
 Dont stay here to long, when you feel you understand how it works
-go ahead and move on 
+go ahead and move on. 
 
 * html/css/bootstrap https://www.udacity.com/course/intro-to-html-and-css--ud304
-* how the internet work shttps://www.khanacademy.org/computing/computer-science/internet-intro
+* how the internet works https://www.khanacademy.org/computing/computer-science/internet-intro
 
 assumes knowledge of git
 * https://www.learnenough.com/html-tutorial
@@ -23,7 +25,7 @@ ruby / rails tutorials
 * http://readysteadycode.com/guides
 
 #### Resources
-write ruby in your browser
+Write Ruby programs in your browser.
 * https://repl.it/
 
 ## Tools
@@ -46,6 +48,13 @@ Download and install a text editor. I recommend:
 This is where all the skills we've built come together. Do this book slow, twice. 
 * https://www.railstutorial.org/book
 
+#### Mackenzie Child YouTube videos
+Getting started with rails.
+* https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA
+
+12 Rails apps in 12 weeks
+* https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
+
 ### Learn enough / rails book / michael hartl 
 His stuff is just really good, and you should do them all.
 
@@ -55,3 +64,4 @@ https://www.learnenough.com/web-development-fundamentals
 
 * have a quiz or example projects, to determine when its time to move on
 * add resources for tools
+
