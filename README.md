@@ -24,6 +24,12 @@ Move on once you've finished a ruby track.
 ruby / rails tutorials 
 * http://readysteadycode.com/guides
 
+A four part tutorial on RACK, which is the backbone of rails. A good primer on ERB and HTTP Requests
+* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-1
+* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-2
+* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-3
+* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-4
+
 #### Resources
 Write Ruby programs in your browser.
 * https://repl.it/
