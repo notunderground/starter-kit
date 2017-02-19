@@ -24,11 +24,6 @@ Move on once you've finished a ruby track.
 ruby / rails tutorials 
 * http://readysteadycode.com/guides
 
-A four part tutorial on RACK, which is the backbone of rails. A good primer on ERB and HTTP Requests
-* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-1
-* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-2
-* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-3
-* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-4
 
 #### Resources
 Write Ruby programs in your browser.
@@ -61,10 +56,16 @@ Getting started with rails.
 12 Rails apps in 12 weeks
 * https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-
 
-### Learn enough series by  Michael Hartl 
+#### Learn enough series by  Michael Hartl 
 His stuff is just really good, and you should do them all.
 
 https://www.learnenough.com/web-development-fundamentals
+
+
+#### Rails further learning
+
+A four part tutorial on RACK, which is the backbone of rails. A good primer on ERB and HTTP Requests
+* https://launchschool.com/blog/growing-your-own-web-framework-with-rack-part-1
 
 ### TODO ( list of things for me to add to repository ) 
 
