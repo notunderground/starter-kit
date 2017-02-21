@@ -1,5 +1,4 @@
-# starter-kit 
-Follow this guideline and you'll be building things, all I demand of you is 30 minutes a day, every day.
+
 
 I provide many resouces so you can have options, use whatever works for you.
 
@@ -8,6 +7,7 @@ Dont stay here to long, when you feel you understand how it works
 go ahead and move on. 
 
 * html/css/bootstrap https://www.udacity.com/course/intro-to-html-and-css--ud304
+* https://internetingishard.com/html-and-css/
 * how the internet works https://www.khanacademy.org/computing/computer-science/internet-intro
 
 assumes knowledge of git
