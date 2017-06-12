@@ -2,6 +2,9 @@
 
 I provide many resouces so you can have options, use whatever works for you.
 
+# THIS IS AEOMSEOMSMEOMSE
+# HI JON
+
 ## HTML / CSS / INTRO TO INTERNET
 Dont stay here to long, when you feel you understand how it works
 go ahead and move on. 
